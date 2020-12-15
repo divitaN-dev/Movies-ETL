@@ -1,0 +1,3 @@
+config.py
+raw_data/movies_metadata.csv
+raw_data/ratings.csv
